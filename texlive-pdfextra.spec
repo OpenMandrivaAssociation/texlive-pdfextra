@@ -1,6 +1,6 @@
 Name:		texlive-pdfextra
 Version:	61719
-Release:	1
+Release:	2
 Summary:	Extra PDF features for (Op)TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfextra
