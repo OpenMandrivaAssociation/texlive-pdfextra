@@ -3,7 +3,7 @@ Version:	65184
 Release:	1
 Summary:	Extra PDF features for (Op)TeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfextra
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pdfextra
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdfextra.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdfextra.doc.r%{version}.tar.xz
